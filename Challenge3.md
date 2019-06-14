@@ -30,8 +30,8 @@
 <h3>Objective : Call the Image Validation function</h3>
 <h3>Psuedo Code : </h3>
 <p><b>STEP 1 : </b>The user should be able to take a snapshot from the livestream or to be able to select a local image [Provide both the options]</p>
-<p><b>STEP 1 : </b>Call the <b>Image Validation</b> function which you have created in the Challenge 1 to validate the image given by the user</p>
-<p><b>STEP 2 : </b>You have to call the Face registration API Only when the four attributes specified in the <b>Image Validation function</b> are succedded</p>
+<p><b>STEP 2 : </b>Call the <b>Image Validation</b> function which you have created in the Challenge 1 to validate the image given by the user</p>
+<p><b>STEP 3 : </b>You have to call the Face registration API Only when the four attributes specified in the <b>Image Validation function</b> are succedded</p>
 <h3>Objective : Invoke the Register API</h3>
 <h3>Psuedo Code : </h3>
 <p><b>STEP 1 : </b>Using Azure Face API you have to do the Face registration</p>
