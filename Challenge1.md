@@ -1,4 +1,4 @@
-<h1>AI Tech Series – Hackathon</h1>
+﻿<h1>AI Tech Series – Hackathon</h1>
 <h1>Challenge 1 – Image Validation</h1>
 <p>In this Challenge 1, you have to use the Azure's Face API to validate the given image (the image should be taken from the live stream or also can use a local image) and connect with Azure SQL Server Database.</p>
 <h2>Getting Started</h2>
@@ -17,23 +17,23 @@
  <h4>Sample Screens</h4>
     <li>Following are the output screens of the <b>AI Series Starter Kit</b> application. Since the database doesn't contain any entries, all the screens will be empty.</li>
     <li>Home page</li>&nbsp;
-    <img src="http://139.59.61.161/Hackathon/MSWorkshop2019/Admin/main.PNG" alt="image" style="max-width:100%;">&nbsp;
+    <img src="http://139.59.61.161/Hackathon/MSWorkshop2019/Admin/main_hackathon.PNG" alt="image" style="max-width:100%;">&nbsp;
     <li>Navigating to Admin page</li>&nbsp;
-    <img src="http://139.59.61.161/Hackathon/MSWorkshop2019/Admin/admin_1.PNG" alt="image" style="max-width:100%;">&nbsp;
+    <img src="http://139.59.61.161/Hackathon/MSWorkshop2019/Admin/admin_1_hackathon.PNG" alt="image" style="max-width:100%;">&nbsp;
     <li>Admin Index page</li>&nbsp;
-    <img src="http://139.59.61.161/Hackathon/MSWorkshop2019/Admin/admin_index.PNG" alt="image" style="max-width:100%;">&nbsp;
+    <img src="http://139.59.61.161/Hackathon/MSWorkshop2019/Admin/admin_index_hackathon.PNG" alt="image" style="max-width:100%;">&nbsp;
     <li>Navigating to Image Validation page</li>&nbsp;
-    <img src="http://139.59.61.161/Hackathon/MSWorkshop2019/Admin/admin_index_1.png" alt="image" style="max-width:100%;">&nbsp;
+    <img src="http://139.59.61.161/Hackathon/MSWorkshop2019/Admin/admin_index_1_hackathon.png" alt="image" style="max-width:100%;">&nbsp;
     <li>Empty Image Validation page</li>&nbsp;
-    <img src="http://139.59.61.161/Hackathon/MSWorkshop2019/Admin/image_validation.PNG" alt="image" style="max-width:100%;">&nbsp;
+    <img src="http://139.59.61.161/Hackathon/MSWorkshop2019/Admin/image_validation_hackathon.PNG" alt="image" style="max-width:100%;">&nbsp;
     <li>Navigating to Gesture Management page</li>&nbsp;
-    <img src="http://139.59.61.161/Hackathon/MSWorkshop2019/Admin/admin_index_2.png" alt="image" style="max-width:100%;">&nbsp;
+    <img src="http://139.59.61.161/Hackathon/MSWorkshop2019/Admin/admin_index_2_hackathon.png" alt="image" style="max-width:100%;">&nbsp;
     <li>Empty Gesture Management page</li>&nbsp;
-    <img src="http://139.59.61.161/Hackathon/MSWorkshop2019/Admin/gesture_management.PNG" alt="image" style="max-width:100%;">&nbsp;
+    <img src="http://139.59.61.161/Hackathon/MSWorkshop2019/Admin/gesture_management_hackathon.PNG" alt="image" style="max-width:100%;">&nbsp;
     <li>Navigating to Audit Log page</li>&nbsp;
-    <img src="http://139.59.61.161/Hackathon/MSWorkshop2019/Admin/admin_index_3.png" alt="image" style="max-width:100%;">&nbsp;
+    <img src="http://139.59.61.161/Hackathon/MSWorkshop2019/Admin/admin_index_3_hackathon.png" alt="image" style="max-width:100%;">&nbsp;
     <li>Empty Audit Log page</li>&nbsp;
-    <img src="http://139.59.61.161/Hackathon/MSWorkshop2019/Admin/audit_log.PNG" alt="image" style="max-width:100%;">&nbsp;
+    <img src="http://139.59.61.161/Hackathon/MSWorkshop2019/Admin/audit_log_hackathon.PNG" alt="image" style="max-width:100%;">&nbsp;
     <li>Navigating to User page</li>&nbsp;
     <img src="http://139.59.61.161/Hackathon/MSWorkshop2019/User/user_1.png" alt="image" style="max-width:100%;">&nbsp;
     <li>User Index page</li>&nbsp;
@@ -51,9 +51,9 @@
     <li>Empty Legal Document Verification page</li>&nbsp;
     <img src="http://139.59.61.161/Hackathon/MSWorkshop2019/Document_Verification/doc_1.PNG" alt="image" style="max-width:100%;">&nbsp;
     <li>Navigating to Quality Control Check page</li>&nbsp;
-    <img src="http://139.59.61.161/Hackathon/MSWorkshop2019/Quality_Check/QCC_1.png" alt="image" style="max-width:100%;">&nbsp;
+    <img src="http://139.59.61.161/Hackathon/MSWorkshop2019/Quality_Check/QCC_1_hackathon.png" alt="image" style="max-width:100%;">&nbsp;
     <li>Empty Quality Control Check page</li>&nbsp;
-    <img src="http://139.59.61.161/Hackathon/MSWorkshop2019/Quality_Check/QCC_2.PNG" alt="image" style="max-width:100%;">&nbsp;
+    <img src="http://139.59.61.161/Hackathon/MSWorkshop2019/Quality_Check/QCC_2_hackathon.PNG" alt="image" style="max-width:100%;">&nbsp;
     <h2>Nuget Packages to be installed</h2>
     <p>The Nuget packages to be installed in this project are, </p>
         <ol><li>RestSharp</li>
