@@ -97,9 +97,10 @@
     <li>Good Bye message will be displayed along with your check out time</li>
     <img src="http://139.59.61.161/Hackathon/MSWorkshop2019/Verify/verify_9.jpg" alt="image" style="max-width: 100%;">
 </ol>
-<h3>Objective : Invoking Audit Log</h3>
+<h3>Objective : Invoke Audit Log</h3>
 <h3>Psuedo Code : </h3>
 <p><b>STEP 1 : </b>You have to store every entries in the <b>auditlog</b> table</p>
+<p><b>STEP 2 : </b>That is store the input images in every stage in the table along with the result type [(i.e) Pass or Fail]</p>
 <h3>Invoking Audit Log design changes</h3>
 <li>Click on auditlog.cshtml</li>
 <img src="http://139.59.61.161/Hackathon/MSWorkshop2019/Audit_Log/1.PNG" alt="image" style="max-width: 100%;">
