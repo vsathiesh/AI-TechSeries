@@ -101,15 +101,16 @@
 <h3>Psuedo Code : </h3>
 <p><b>STEP 1 : </b>You have to store every entries in the <b>auditlog</b> table</p>
 <p><b>STEP 2 : </b>That is store the input images in every stage in the table along with the result type [(i.e) Pass or Fail]</p>
-<h3>Invoking Audit Log design changes</h3>
-<li>Click on auditlog.cshtml</li>
-<img src="http://139.59.61.161/Hackathon/MSWorkshop2019/Audit_Log/1.PNG" alt="image" style="max-width: 100%;">
-<li>Uncomment the code from line 220</li>
-<img src="http://139.59.61.161/Hackathon/MSWorkshop2019/Audit_Log/2.PNG" alt="image" style="max-width: 100%;">
-<li>Uncomment the code till line 264</li>
-<img src="http://139.59.61.161/Hackathon/MSWorkshop2019/Audit_Log/3.PNG" alt="image" style="max-width: 100%;">
+<h3><b>NOTE : </b>The following procedures are needed only when you are using the 'AI Series Starter Kit' application</h3>
+<p>Un-comment the code in design screens</p>
+<ol>
+<strong>
+<li>Open auditlog.cshtml [In solution explorer, Views -> Home -> auditlog.cshtml]</li>
+<li>Select the code from line number 220</li>
+<li>Select the code till line number 264</li>
 <li>Click on the uncomment button</li>
-<img src="http://139.59.61.161/Hackathon/MSWorkshop2019/Audit_Log/4.png" alt="image" style="max-width: 100%;">
+<li>If you are using this option you have to create your own model class also accordingly or else you can skip the above steps and handle that feature in your own way.</li>
+</ol>
 <p>Now you can run and check the Audit Log outputs</p>
     <img src="http://139.59.61.161/Hackathon/MSWorkshop2019/Audit_Log/auditlog.JPG" alt="image" style="max-width: 100%;">
 <h3>Congratulations! You have successfully completed Challenge 3</h3>
