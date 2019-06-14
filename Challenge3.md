@@ -1,4 +1,4 @@
-<h1>AI Tech Series – Hackathon</h1>
+﻿<h1>AI Tech Series – Hackathon</h1>
 <h1>Challenge 3 – Face Registration, Verification & Audit Log</h1>
 <p>In this Challenge 3, you have to use Azure Face Register API, Azure Face Verify API and should handle the Audit log of the whole application.</p>
 <h2>Getting Started</h2>
@@ -97,38 +97,9 @@
     <li>Good Bye message will be displayed along with your check out time</li>
     <img src="http://139.59.61.161/Hackathon/MSWorkshop2019/Verify/verify_9.jpg" alt="image" style="max-width: 100%;">
 </ol>
-<h3>Invoking Audit Log</h3>
-<ol>
-    <strong>
-        <li>Paste the code given below in 'Facade.cs', (i.e) below the comment 'Paste the 'Admin_AuditLogShow' Function Code here...'</li>
-        <blockquote>
-            <pre>
-                <code>
-public static List&lt;audit_log&gt; Admin_AuditLogShow()
-{
-            AuditLoggerTable altobj = new AuditLoggerTable();
-&nbsp;
-            return altobj.List();
-}
-</code>
-            </pre>
-        </blockquote>
-    </strong>
-<strong>
-   <li>Paste the code given below in 'HomeController.cs', (i.e) Replace the whole ActionResult 'audit_log'</li>
-   <blockquote>
-     <pre>
-       <code>
-        public ActionResult audit_log()
-        {
-            // Calling the intermediator file and Returing the List file to the View 
-            return View(Facade.Admin_AuditLogShow());
-        }
-       </code>
-   </pre>
-</blockquote>
-</strong>
-</ol>
+<h3>Objective : Invoking Audit Log</h3>
+<h3>Psuedo Code : </h3>
+<p><b>STEP 1 : </b>You have to store every entries in the <b>auditlog</b> table</p>
 <h3>Invoking Audit Log design changes</h3>
 <li>Click on auditlog.cshtml</li>
 <img src="http://139.59.61.161/Hackathon/MSWorkshop2019/Audit_Log/1.PNG" alt="image" style="max-width: 100%;">
