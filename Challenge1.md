@@ -124,7 +124,7 @@
 <li>Open SQL Server Management Studio</li>
 <li>To connect with the Azure SQL Server, you have to provide Server name, Login and Password details.</li>&nbsp;
 <img src="http://139.59.61.161/Hackathon/MSWorkshop2019/DB_Creation/1.jpg" style="max-width:100%;">
-<p>Download the script file from the <a href="https://github.com/jumpstartninjatech/HeroSolutions-AI/blob/master/HOLs/HOL_Script.sql">GitHub</a></p> 
+<p>Download the script file from the <a href="https://github.com/jumpstartninjatech/AI-TechSeries/blob/master/HOL/HOL_Script.sql">GitHub</a></p> 
 <h2>Sample screens for how to run the script file</h2>
 <li>Open the script file from the path where you have saved the downloaded GIT script file</li>&nbsp;
 <img src="http://139.59.61.161/Hackathon/MSWorkshop2019/DB_Creation/2.jpg" style="max-width:100%;">&nbsp;
