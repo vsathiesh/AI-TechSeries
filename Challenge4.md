@@ -14,15 +14,13 @@
       <li>For training, get the image data-set from <a href="https://github.com/jumpstartninjatech/AI-TechSeries/tree/master/HOL/AI_Series_Starter_Kit/images/QualityCheck">here</a>.</li>
   </strong>
 </ol>
-<strong>
 <h3>Objective : Finding the Quality of a product using Azure Custom Vision API</h3>
 <h3>Psuedo Code : </h3>
-<p>STEP 1 : Create two functions for those model files and each function should return Pass/Fail response</p>
-<p>STEP 2 : In front end create two Radio Buttons for those model files, while selecting model 1 Radio Button it should call the model 1 Quality checker functionalities and show the response in front end and the same procedure for model 2.</p>
-<p>STEP 3 : If you decide to take the picture by live streaming, make sure you use the correct product. If the Image does not contain any related product details, it will throw the 'Fail' response.</p>
-<p>STEP 4 : If you click the Browse Button for selecting an image, make sure you select the relevant image.</p>
-<p>STEP 5 : If you enter the URL for selecting an image, make sure you give the right path for the image.</p>
-</strong>
+<p><b>STEP 1 : </b>Create two functions for those model files and each function should return Pass/Fail response</p>
+<p><b>STEP 2 : </b>In front end create two Radio Buttons for those model files, while selecting model 1 Radio Button it should call the model 1 Quality checker functionalities and show the response in front end and the same procedure for model 2.</p>
+<p><b>STEP 3 : </b>If you decide to take the picture by live streaming, make sure you use the correct product. If the Image does not contain any related product details, it will throw the 'Fail' response.</p>
+<p><b>STEP 4 : </b>If you click the Browse Button for selecting an image, make sure you select the relevant image.</p>
+<p><b>STEP 5 : </b>If you enter the URL for selecting an image, make sure you give the right path for the image.</p>
 <h2>Model 1 Sample Outputs</h2>
 <li>Selecting the Model 1 Check Box</li>&nbsp;
 <img src="http://139.59.61.161/Hackathon/MSWorkshop2019/Quality_Check/Model1_output/output_1.PNG" alt="image" style="max-width:100%;">&nbsp;
