@@ -2,7 +2,7 @@
 <h1>Challenge 1 – Image Validation</h1>
 <p>In this Challenge 1, you have to use the Azure's Face API to validate the given image (the image should be taken from the live stream or also can use a local image) and connect with Azure SQL Server Database.</p>
 <h2>Getting Started</h2>
-<p>If needed you can download the <b>AI Series HOL Starter Kit</b> from the <a href="https://github.com/jumpstartninjatech/HeroSolutions-AI/tree/master/HOLs/AI_Series_Starter_Kit">Git Repo</a></p>
+<p>If needed you can download the <b>AI Series HOL Starter Kit</b> from the <a href="https://github.com/jumpstartninjatech/AI-TechSeries/tree/master/HOL/AI_Series_Starter_Kit">Git Repo</a></p>
 <h3>Prerequisites</h3>
     <li>Kindly ensure that your Visual Studio and SQL Server Management Studio are working fine. [You can also access the SQL Server through Azure Portal]</li>
     <li>If you are using the <b>AI Series Starter Kit</b> application follow the below steps to build and run it. Else you can create your own application.</li>&nbsp;
