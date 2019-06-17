@@ -10,8 +10,8 @@
 <h3>Invoke the Quality Controller Check API</h3>
 <ol>
   <strong>
-      <li>Train your model and publish it in 'customvision.ai' [NOTE : Check <a href="">Challenge 2</a> for procedures]</li>
-      <li>For training, get the image data-set from <a href="">here</a>.</li>
+      <li>Train your model and publish it in 'customvision.ai' [NOTE : Check <a href="https://github.com/jumpstartninjatech/AI-TechSeries/blob/master/Challenge2.md">Challenge 2</a> for procedures]</li>
+      <li>For training, get the image data-set from <a href="https://github.com/jumpstartninjatech/AI-TechSeries/tree/master/HOL/AI_Series_Starter_Kit/images/QualityCheck">here</a>.</li>
   </strong>
 </ol>
 <strong>
