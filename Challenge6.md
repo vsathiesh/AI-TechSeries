@@ -39,14 +39,13 @@
 <img src="http://139.59.61.161/Hackathon/MSWorkshop2019/sql/sql7.jpg" alt="image" style="max-width: 100%;">&nbsp;
 <li>Copy your Connection string</li>&nbsp;
 <img src="http://139.59.61.161/Hackathon/MSWorkshop2019/sql/sql8.jpg" alt="image" style="max-width: 100%;">&nbsp;
-<h4>Paste your SQL server connection string details in Web.config (i.e) for 'DataSource' give 'jsn.database.windows.net', for 'UserID' give 'demouser', for 'Password' give 'demo@pass123' and for 'InitialCatalog' give your database name</h4>&nbsp;
 <h4>Before running the bot make sure your 'pdi_engineer_details' table has an entry, (i.e) in the azure editor pane run the following query by specifying the user name</h4>
 <blockquote>
-	<pre>
-		<code>
-			INSERT INTO pdi_engineer_details(name) VALUES('Your Name');
-		</code>
-	</pre>
+<pre>
+<code>
+	INSERT INTO pdi_engineer_details(name) VALUES('Your Name');
+</code>
+</pre>
 </blockquote>
 <h4>NOTE : In the query, inside the '' give your name</h4>
 </ol></strong>
