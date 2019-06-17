@@ -14,7 +14,7 @@
 <li>Click on Manage</li>&nbsp;
 <img src="http://139.59.61.161/Hackathon/MSWorkshop2019/LuisImages/8.jpg" alt="image" style="max-width: 100%;">&nbsp;
 <li>Copy the Application ID</li>&nbsp;
-<img src="http://139.59.61.161/Hackathon/MSWorkshop2019/LuisImages/9.jpg" alt="image" style="max-width: 100%;">&nbsp;
+<img src="http://139.59.61.161/Hackathon/MSWorkshop2019/LuisImages/9_hackathon.jpg" alt="image" style="max-width: 100%;">&nbsp;
 <li>Copy only the Key</li>&nbsp;
 <img src="http://139.59.61.161/Hackathon/MSWorkshop2019/BOT/LUIS1.PNG" alt="image" style="max-width: 100%;"></ol></strong>
 <h3>Azure SQL Server Connectivity through Azure Portal</h3>
