@@ -10,7 +10,7 @@
 <h3>Invoke the Gesture Management API</h3>
 <ol>
   <strong>
-      <li>Train your model in 'customvision.ai' [For training, get the images from <a href="">here</a>]</li>
+      <li>Train your model in 'customvision.ai' [For training, get the images from <a href="https://github.com/jumpstartninjatech/AI-TechSeries/tree/master/HOL/AI_Series_Starter_Kit/images/GestureImages">here</a>]</li>
       <li>After training your model publish it</li>&nbsp;
       <img src="http://139.59.61.161/Hackathon/MSWorkshop2019/custom/custom1.jpg" alt="image" style="max-width: 100%;">&nbsp;
       <img src="http://139.59.61.161/Hackathon/MSWorkshop2019/custom/custom2.jpg" alt="image" style="max-width: 100%;">&nbsp;
