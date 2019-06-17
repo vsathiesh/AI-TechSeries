@@ -47,7 +47,7 @@ INSERT INTO pdi_engineer_details(name) VALUES('Your Name');
 &nbsp;
 </code>
 </blockquote>
-<h4>NOTE : In the query, inside the '' give your name</h4>
+<h4>NOTE : In the query, inside the '', give your name</h4>
 </ol></strong>
 <h3>Publishing the bot application to Azure</h3>
 <ol>
@@ -56,7 +56,7 @@ INSERT INTO pdi_engineer_details(name) VALUES('Your Name');
 		<img src="http://139.59.61.161/Hackathon/MSWorkshop2019/BOT/Publish1.png" alt="image" style="max-width: 100%;">&nbsp;
 		<li>Click on Start, click on App Service, click on Create New and click on Publish</li>&nbsp;
 		<img src="http://139.59.61.161/Hackathon/MSWorkshop2019/BOT/Publish2.PNG" alt="image" style="max-width: 100%;">&nbsp;
-		<li>Fill all the fields and click on Create button, the application will be published and site URL will be generated copy that for later use</li>&nbsp;
+		<li>Fill all the fields and click on Create button, the application will be published and site URL will be generated, copy that for later use</li>&nbsp;
 		<img src="http://139.59.61.161/Hackathon/MSWorkshop2019/BOT/Portal14.PNG" alt="image" style="max-width: 100%;">&nbsp;
 	</strong>
 </ol>
