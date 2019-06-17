@@ -1,6 +1,6 @@
 <h1>AI Tech Series - Hackathon</h1>
 <h2>Challenge 5 – Optical Character Recognizer and Automatic Key Phrases Extraction</h2>
-<p>In Challenge 5 you have to create the Legal Document Verification using Azure Custom Vision API and Microsoft Luis</p>
+<p>In this Challenge 5, you have to create the Legal Document Verification using Azure Custom Vision API and Microsoft Luis</p>
 <h2>Getting Started</h2>
 <h3>Prerequisites</h3>
 <li>Kindly ensure that the application works fine so far</li>
@@ -83,4 +83,4 @@
 <li>Error page if you select a wrong file type</li>&nbsp;
 <img src="http://139.59.61.161/Hackathon/MSWorkshop2019/Quality_Check/Model1_output/output_8.PNG" alt="image" style="max-width:100%;">&nbsp;
 <h3>Congratulations! You have successfully completed Challenge 5</h3>
-<h3>The next session is <a href="https://github.com/jumpstartninjatech/HeroSolutions-AI/blob/master/Challenge6.md">Challenge 6</a></h3>
+<h3>The next session is <a href="https://github.com/jumpstartninjatech/AI-TechSeries/blob/master/Challenge6.md">Challenge 6</a></h3>
