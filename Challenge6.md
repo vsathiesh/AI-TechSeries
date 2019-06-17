@@ -17,15 +17,6 @@
 <img src="http://139.59.61.161/Hackathon/MSWorkshop2019/LuisImages/9.jpg" alt="image" style="max-width: 100%;">&nbsp;
 <li>Copy only the Key</li>&nbsp;
 <img src="http://139.59.61.161/Hackathon/MSWorkshop2019/BOT/LUIS1.PNG" alt="image" style="max-width: 100%;"></ol></strong>
-<h3>Web Config Changes</h3>
-<ol>
-<strong>
-<li>Navigate to Web.config</li>&nbsp;
-<img src="http://139.59.61.161/Hackathon/MSWorkshop2019/BOT/Config1.PNG" alt="image" style="max-width: 100%;">&nbsp;
-<li>Paste the LUIS App ID in 'LuisModelId' and Key in 'LuisSubscriptionKey' in Web.Config </li>&nbsp;
-<img src="http://139.59.61.161/Hackathon/MSWorkshop2019/BOT/Config2.png"alt="image" style="max-width: 100%;">&nbsp;
-<li>Fill the 'DataSource', 'UserID', 'Password' and 'InitialCatalog' [Grab all these from connectionstring, to get the connectionstring follow the below procedure]</li>
-</ol></strong>
 <h3>Azure SQL Server Connectivity through Azure Portal</h3>
 <ol><strong>
 <li>Sign-in to Azure Portal by typing "portal.azure.com" in browser, enter your username</li>&nbsp;
