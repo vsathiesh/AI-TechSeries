@@ -41,11 +41,9 @@
 <img src="http://139.59.61.161/Hackathon/MSWorkshop2019/sql/sql8.jpg" alt="image" style="max-width: 100%;">&nbsp;
 <h4>Before running the bot make sure your 'pdi_engineer_details' table has an entry, (i.e) in the azure editor pane run the following query by specifying the user name</h4>
 <blockquote>
-<pre>
 <code>
-	INSERT INTO pdi_engineer_details(name) VALUES('Your Name');
+INSERT INTO pdi_engineer_details(name) VALUES('Your Name');
 </code>
-</pre>
 </blockquote>
 <h4>NOTE : In the query, inside the '' give your name</h4>
 </ol></strong>
