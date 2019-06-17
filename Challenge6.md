@@ -42,7 +42,9 @@
 <h4>Before running the bot make sure your 'pdi_engineer_details' table has an entry, (i.e) in the azure editor pane run the following query by specifying the user name</h4>
 <blockquote>
 <code>
+&nbsp;
 INSERT INTO pdi_engineer_details(name) VALUES('Your Name');
+&nbsp;
 </code>
 </blockquote>
 <h4>NOTE : In the query, inside the '' give your name</h4>
