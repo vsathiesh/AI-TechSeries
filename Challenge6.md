@@ -39,7 +39,7 @@
 <img src="http://139.59.61.161/Hackathon/MSWorkshop2019/sql/sql7_hackathon.jpg" alt="image" style="max-width: 100%;">&nbsp;
 <li>Copy your Connection string</li>&nbsp;
 <img src="http://139.59.61.161/Hackathon/MSWorkshop2019/sql/sql8_hackathon.jpg" alt="image" style="max-width: 100%;">&nbsp;
-<h4>Before running the bot make sure your 'pdi_engineer_details' table has an entry, (i.e) in the azure editor pane run the following query by specifying the user name</h4>
+<h4>Before running the bot make sure your 'pdi_engineer_details' table has an entry, (i.e) in the azure editor pane run the following query by specifying the user name.</h4>
 <blockquote>
 <code>
 &nbsp;
