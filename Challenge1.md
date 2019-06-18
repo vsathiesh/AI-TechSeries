@@ -104,7 +104,7 @@
  <h3>Till this you can run the solution and should get the output like the following screens</h3>
     <p><b>STEP 1 :</b> Make sure you take the picture with a face to pass the face availability. Also take a picture without showing the face in the camera to get the error message 'Face not found'</p>
     <p><b>STEP 2 :</b> Make sure you take the picture with a single person to pass the multiple face check. Also take a picture with more than one person to get the error message 'Multiple Faces are not allowed'</p>
-    <p><b>STEP 3 :</b> Make sure you take the picture without wearing sunglasses to pass the sunglasses check. Also take a picture sunglasses to get the error message 'Please remove the sunglasses'. [Note : Reading glasses are allowed]</p>
+    <p><b>STEP 3 :</b> Make sure you take the picture without wearing sunglasses to pass the sunglasses check. Also take a picture with sunglasses to get the error message 'Please remove the sunglasses'. [Note : Reading glasses are allowed]</p>
     <p><b>STEP 4 :</b> Make sure you do not show emotions such as anger, sadness and surprise while taking the picture to pass the allowed emotions check. Also take a picture with the above specified emotions to get the error message 'Your expression must be Neutral'</p>
   <h2>Sample Outputs</h2>
   <li>Face availability test case</li>&nbsp;
