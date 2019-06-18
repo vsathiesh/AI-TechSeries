@@ -5,7 +5,7 @@
 <h3>Prerequisites</h3>
 <li>Kindly ensure that the application works fine so far.</li>
 <h3>Code Summary</h3>
-<p>For the Face Registration, you should use three Azure face APIs [<b>Create Person API</b>, <b>Add Face API</b> and <b>Train API</b>]. For the Face Verification, you should use two Azure Face APIs [<b>Detect API</b> and <b>Identify API</b>]. In the Admin portal, have to display all the audit logs in the Audit Log page.</p>
+<p>For the Face Registration, you should use three Azure face APIs [<b>Create Person API</b>, <b>Add Face API</b> and <b>Train API</b>]. For the Face Verification, you should use two Azure Face APIs [<b>Detect API</b> and <b>Identify API</b>]. In the Admin part, have to display all the audit logs in the Audit Log page.</p>
 <p>Create the Face registration and Face verification under <b>User</b> part, where as Audit Log under <b>Admin</b> part</p>
 <h3>Create Group ID</h3>
   <ol>
