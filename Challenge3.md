@@ -13,8 +13,7 @@
       <li>Follow the below steps and create the group id</li>
       <li>Navigate to <a href="https://southeastasia.dev.cognitive.microsoft.com/docs/services/563879b61984550e40cbbe8d/operations/563879b61984550f30395244">Developer Portal</a>, click on 'PersonGroup' tab on the left pane</li>&nbsp;
       <img src="http://139.59.61.161/Hackathon/MSWorkshop2019/face_group_id/face_1.jpg" alt="image" style="max-width: 100%;">&nbsp;
-      <li>Click on 'Create' tab on the left pane</li>&nb
-      sp;
+      <li>Click on 'Create' tab on the left pane</li>&nbsp;
       <img src="http://139.59.61.161/Hackathon/MSWorkshop2019/face_group_id/face_2.jpg" alt="image" style="max-width: 100%;">&nbsp;
       <li>Select the region</li>&nbsp;
       <img src="http://139.59.61.161/Hackathon/MSWorkshop2019/face_group_id/face_3.jpg" alt="image" style="max-width: 100%;">&nbsp;
