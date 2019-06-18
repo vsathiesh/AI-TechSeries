@@ -2,6 +2,7 @@
 <h2>Challenge 6 – Integration of NLP based Chat bot for Task Management</h2>
 <p>In this Challenge 6, you have to create a chatbot application with two modules such as <b>Track status</b> and <b>Report status</b> using Visual studio Bot application in C#.</p>
 <h2>Getting Started</h2>
+<h3>NOTE : To Know how to import the LUIS check <a href="https://github.com/jumpstartninjatech/AI-TechSeries/blob/master/Challenge5.md">Challenge 5</a>, get the LUIS file from <a href="https://github.com/jumpstartninjatech/AI-TechSeries/blob/master/HOL/ProjectManagementBot.json">here</a></h3>
 <h3>Getting the LUIS key</h3>
 <ol>
 <strong>
