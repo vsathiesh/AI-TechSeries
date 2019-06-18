@@ -1,6 +1,6 @@
 <h1>AI Tech Series - Hackathon</h1>
 <h2>Challenge 5 – Optical Character Recognizer and Automatic Key Phrases Extraction</h2>
-<p>In this Challenge 5, you have to create the Legal Document Verification using Azure Custom Vision API and Microsoft Luis</p>
+<p>In this Challenge 5, you have to create the Legal Document Verification using Azure Custom Vision API and Microsoft LUIS</p>
 <h2>Getting Started</h2>
 <h3>Prerequisites</h3>
 <li>Kindly ensure that the application works fine so far</li>
