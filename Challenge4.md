@@ -6,7 +6,7 @@
 <li>Kindly ensure that the application works fine so far.</li>
 <li>Build the Quality Control Checker in the same application.</li>
 <h3>Code Summary</h3>
-<p>For Quality Control Checking you have to create two model files using the Azure Custom Vision API. Both the model files should find the Quality of the products. While testing the Quality of the product you can get the images from the live stream and the other on by browsing the image from the local machine or using the image URL.</p>
+<p>For Quality Control Checking you have to create two model files using the Azure Custom Vision API. Both the model files should find the Quality of the products. For testing the Quality of the product you can get the images from the live stream or by browsing the image from the local machine or using the image URL.</p>
 <h3>Invoke the Quality Controller Check API</h3>
 <ol>
   <strong>
