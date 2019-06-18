@@ -37,7 +37,7 @@
 <h3>Importing the LUIS Model</h3>
 <ol>
     <strong>
-        <li>Download the LUIS Json file from <a href="https://github.com/jumpstartninjatech/AI-TechSeries/blob/master/HOL/e569a3f6-4254-4060-a326-3a6372d0b419_v0.1.json">GitHub</a></li>&nbsp;
+        <li>Download the LUIS Json file from <a href="https://github.com/jumpstartninjatech/AI-TechSeries/blob/master/HOL/LegalDocumentLUIS.json">GitHub</a></li>&nbsp;
         <li>Login to Luis.ai</li>&nbsp;
         <img src="http://139.59.61.161/Hackathon/MSWorkshop2019/LuisImages/1.jpg" alt="image" style="max-width: 100%;">&nbsp;
         <li>Enter your username</li>&nbsp;
