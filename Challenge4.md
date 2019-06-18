@@ -18,7 +18,7 @@
 <h3>Pseudo code : </h3>
 <p><b>STEP 1 : </b>Create two functions for those model files and each function should return Pass/Fail response</p>
 <p><b>STEP 2 : </b>In front end create two Radio Buttons for those model files, while selecting model 1 Radio Button it should call the model 1 Quality checker functionalities and show the response in front end and the same procedure for model 2.</p>
-<p><b>STEP 3 : </b>If you decide to take the picture by live streaming, make sure you use the correct product. If the Image does not contain any related product details, it will throw the 'Fail' response.</p>
+<p><b>STEP 3 : </b>If you decide to take the picture by live streaming, make sure you use the correct product. If the Image does not contain any related product details, it should throw the 'Fail' response.</p>
 <p><b>STEP 4 : </b>If you click the Browse Button for selecting an image, make sure you select the relevant image.</p>
 <p><b>STEP 5 : </b>If you enter the URL for selecting an image, make sure you give the right path for the image.</p>
 <h2>Model 1 Sample Outputs</h2>
@@ -32,7 +32,7 @@
 <img src="http://139.59.61.161/Hackathon/MSWorkshop2019/Quality_Check/Model1_output/output_4.PNG" alt="image" style="max-width:100%;">&nbsp;
 <li>Open the Right product image from the folder</li>&nbsp;
 <img src="http://139.59.61.161/Hackathon/MSWorkshop2019/Quality_Check/Model1_output/output_5.PNG" alt="image" style="max-width:100%;">&nbsp;
-<li>Below is the picture of the Right product and its showing <b>Fail</b> as a response</li>&nbsp;
+<li>Below is the picture of the Right product and its showing <b>Pass</b> as a response</li>&nbsp;
 <img src="http://139.59.61.161/Hackathon/MSWorkshop2019/Quality_Check/Model1_output/output_6.PNG" alt="image" style="max-width:100%;">&nbsp;
 <li>Selecting the wrong file type</li>&nbsp;
 <img src="http://139.59.61.161/Hackathon/MSWorkshop2019/Quality_Check/Model1_output/output_7.PNG" alt="image" style="max-width:100%;">&nbsp;
