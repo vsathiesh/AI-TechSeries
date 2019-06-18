@@ -24,7 +24,7 @@
   </strong>
 </ol>
 <h3>Objective : Manage the Gestures from the admin page</h3>
-<h3>Psuedo Code : </h3>
+<h3>Pseudo code : </h3>
 <p><b>STEP 1: </b>Create a function, which is used to fetch all the default gestures from the gesture table [there are five default gestures in the <b>gesture</b> table] and display all those gestures in the front end. All these details should be displayed in the gesture management page under admin part.</p>
 <p>The following pictures are the example for navigating to the gestures management page,</p>&nbsp;
 <img src="http://139.59.61.161/Hackathon/MSWorkshop2019/Admin/admin_1_hackathon.PNG" alt="image" style="max-width:100%;">&nbsp;

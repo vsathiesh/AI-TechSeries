@@ -28,12 +28,12 @@
   </strong>
 </ol>
 <h3>Objective : Call the Image Validation function</h3>
-<h3>Psuedo Code : </h3>
+<h3>Pseudo code : </h3>
 <p><b>STEP 1 : </b>The user should be able to take a snapshot from the livestream or to be able to select a local image [Provide both the options]</p>
 <p><b>STEP 2 : </b>Call the <b>Image Validation</b> function which you have created in the Challenge 1 to validate the image given by the user</p>
 <p><b>STEP 3 : </b>You have to call the Face registration API Only when the four attributes specified in the <b>Image Validation function</b> are succeeded</p>
 <h3>Objective : Invoke the Register API</h3>
-<h3>Psuedo Code : </h3>
+<h3>Pseudo code : </h3>
 <p><b>STEP 1 : </b>Using Azure Face API you have to do the Face registration</p>
 <p><b>STEP 2 : </b>Create a function, in which you have to call three Azure Face APIs for registering the face in Azure</p>
 <p><b>STEP 3 : </b>First call the <b>Create Person API</b> and get the <b>Person ID</b> from the json response</p>
@@ -45,12 +45,12 @@
 <p><b>STEP 9 : </b>If all the four attributes of <b>Image Validation function</b> are succeeded the image will be displayed in the right side</p>
 <p><b>STEP 10 : </b>Get the name, mobile number, email and gender from the user and store those details in the <b>usertable</b> along with the Person ID you got from the <b>Create Person API</b></p>
 <h3>Objective : Call the gesture randomly</h3>
-<h3>Psuedo Code : </h3>
+<h3>Pseudo code : </h3>
 <p><b>STEP 1 : </b>There will be already five gestures in the <b>gesture</b> table, create a function for which you have to call any one of the gesture randomly from the table and display it in the front end</p>
 <p><b>STEP 2 : </b>The user has to show the gesture (which you are displaying randomly) in front of the camera, you have to call the Azure's Custom Vision API [user gesture image as input] to find what gesture the user has shown</p>
 <p><b>STEP 3 : </b>Compare the Custom Vision API response [gesture type] and the gesture you have randomly displayed, if both the gesture type matches then proceed with the Face Verification or else display the error message.</p>
 <h3>Objective : Invoke the Verify API</h3>
-<h3>Psuedo Code : </h3>
+<h3>Pseudo code : </h3>
 <p><b>STEP 1 : </b>Using Azure Face API you have to do the Face verification</p>
 <p><b>STEP 2 : </b>Create a function, in which you have to call two Azure Face APIs for verifying the face</p>
 <p><b>STEP 3 : </b>First call the <b>Detect API</b> and get the <b>Face ID</b> from the json response</p>
@@ -98,7 +98,7 @@
     <img src="http://139.59.61.161/Hackathon/MSWorkshop2019/Verify/verify_9.jpg" alt="image" style="max-width: 100%;">
 </ol>
 <h3>Objective : Invoke Audit Log</h3>
-<h3>Psuedo Code : </h3>
+<h3>Pseudo code : </h3>
 <p><b>STEP 1 : </b>You have to store every entries in the <b>auditlog</b> table</p>
 <p><b>STEP 2 : </b>That is store the input images in every stage in the table along with the result type [(i.e) Pass or Fail]</p>
 <h3><b>NOTE : </b>The following procedures are needed only when you are using the 'AI Series Starter Kit' application</h3>

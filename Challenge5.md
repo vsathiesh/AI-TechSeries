@@ -65,7 +65,7 @@
     </strong>
 </ol>
 <h3>Invoke the Optical Character Recognizer API</h3>
-<h3>Psuedo Code : </h3>
+<h3>Pseudo code : </h3>
 <p><b>STEP 1 : </b>Now, lets test the image using Azure API.</p>
 <p><b>STEP 2 : </b>If you choose to take the picture by live streaming, make sure you use the correct image. If the Image does not contain any text, it will throw the 'Fail' response.</p>
 <p><b>STEP 3 : </b>If you click the Browse Button for selecting an image, make sure you select the relevant image.</p>

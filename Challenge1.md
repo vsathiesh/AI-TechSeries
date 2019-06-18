@@ -67,7 +67,7 @@
     <p>By following the above procedure install those 2 nuget packages.</p>
 <h2>Getting Started with your today's task - Following are the guidelines to work on the Computer Vision API</h2>
 <h3>Objective : Convert an Image into Byte array</h3>
-<h3>Psuedo Code : </h3>
+<h3>Pseudo code : </h3>
 <p><b>STEP 1 : </b>Create a function [so that you can reuse the code], to store the image data into an byte array</p>
 <p>Lets move on to the Face API...</p>
 <h3>Create a Face API Key</h3>
@@ -95,7 +95,7 @@
     <img src="http://139.59.61.161/Hackathon/MSWorkshop2019/face_computer_portal/faceAPI_create/portal_10.jpg" alt="image" style="max-width: 100%;">&nbsp;
   </strong></ol>
 <h3>Objective : Invoke the Face API</h3>
-<h3>Psuedo Code : </h3>
+<h3>Pseudo code : </h3>
 <p><b>STEP 1 : </b>Create a function to call the Azure Face API [use the image byte array value as input] and check for four attributes from the json response. [This function will be called as the <b>Image Validation</b> function]</p> 
 <p><b>STEP 2 : </b>Four attributes to be checked for the given image - Face availability, Multiple Face check, Sunglasses check and allowed Emotions.</p>
 <p><b>STEP 3 : </b>Face availability - check whether the face is available or not, Mutiple Face check - check if there are mutiple faces, Sunglasses - check for sunglasses [reading glasses are allowed] and Allowed Emotions - check for anger, sad and surprise emotions.</p>
@@ -166,7 +166,7 @@
 <li>Copy your Connection string</li>&nbsp;
 <img src="http://139.59.61.161/Hackathon/MSWorkshop2019/sql/sql6_hackathon.jpg" alt="image" style="max-width: 100%;">&nbsp;
 <h3>Objective : Invoke the image validation Admin part</h3>
-<h3>Psuedo Code : </h3>
+<h3>Pseudo code : </h3>
 <p><b>STEP 1 : </b>Create a function to fetch all the details from the <b>imagevalidation</b> table and display it in the front end</p>
 <p><b>STEP 2 : </b>While displaying the <b>imagevalidation</b> table details, you should provide a enable-disable option in the front end</p>
 <p><b>STEP 3 : </b>By default in the <b>imagevalidation</b> table all the four validation types are enabled</p>

@@ -15,7 +15,7 @@
   </strong>
 </ol>
 <h3>Objective : Finding the Quality of a product using Azure Custom Vision API</h3>
-<h3>Psuedo Code : </h3>
+<h3>Pseudo code : </h3>
 <p><b>STEP 1 : </b>Create two functions for those model files and each function should return Pass/Fail response</p>
 <p><b>STEP 2 : </b>In front end create two Radio Buttons for those model files, while selecting model 1 Radio Button it should call the model 1 Quality checker functionalities and show the response in front end and the same procedure for model 2.</p>
 <p><b>STEP 3 : </b>If you decide to take the picture by live streaming, make sure you use the correct product. If the Image does not contain any related product details, it will throw the 'Fail' response.</p>
