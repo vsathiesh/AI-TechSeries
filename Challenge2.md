@@ -39,7 +39,7 @@
 <img src="http://139.59.61.161/Hackathon/MSWorkshop2019/Challenge2/output/3.jpg" alt="image" style="max-width: 100%;">&nbsp;
 <li>Provide the relevant information to add a new Gesture</li>&nbsp;
 <img src="http://139.59.61.161/Hackathon/MSWorkshop2019/Challenge2/output/4.jpg" alt="image" style="max-width: 100%;">&nbsp;
-<li>Added a New Gesture</li>&nbsp;
+<li>New Gesture is added</li>&nbsp;
 <img src="http://139.59.61.161/Hackathon/MSWorkshop2019/Challenge2/output/5.jpg" alt="image" style="max-width: 100%;">&nbsp;
 <p><b>STEP 3: </b>Create a function, which is used to handle the updations, when the user clicks the <b>Edit</b> button</p>
 <p>The pictures shown below are the examples for Editing the gestures in admin page</p>
