@@ -1,0 +1,256 @@
+{
+  "luis_schema_version": "3.2.0",
+  "versionId": "0.1",
+  "name": "ProjectManagementBot",
+  "desc": "This Application for project Management bot",
+  "culture": "en-us",
+  "tokenizerVersion": "1.0.0",
+  "intents": [
+    {
+      "name": "Get_Status"
+    },
+    {
+      "name": "Greetings"
+    },
+    {
+      "name": "None"
+    },
+    {
+      "name": "ReportStatus"
+    },
+    {
+      "name": "ReportStatusWithInput"
+    }
+  ],
+  "entities": [
+    {
+      "name": "Name",
+      "roles": []
+    }
+  ],
+  "composites": [],
+  "closedLists": [],
+  "patternAnyEntities": [
+    {
+      "name": "WorkStatus",
+      "roles": [],
+      "explicitList": []
+    }
+  ],
+  "regex_entities": [],
+  "prebuiltEntities": [
+    {
+      "name": "datetimeV2",
+      "roles": []
+    }
+  ],
+  "model_features": [],
+  "regex_features": [],
+  "patterns": [
+    {
+      "pattern": "{datetimeV2} status :{WorkStatus}",
+      "intent": "ReportStatus"
+    },
+    {
+      "pattern": "hi,{datetimeV2}{WorkStatus}",
+      "intent": "ReportStatus"
+    },
+    {
+      "pattern": "hi all,{datetimeV2} {WorkStatus}",
+      "intent": "ReportStatus"
+    },
+    {
+      "pattern": "i have done {WorkStatus} on {datetimeV2}",
+      "intent": "ReportStatusWithInput"
+    },
+    {
+      "pattern": "my {datetimeV2} status is : {WorkStatus}",
+      "intent": "ReportStatus"
+    },
+    {
+      "pattern": "i have done {WorkStatus} {datetimeV2}",
+      "intent": "ReportStatusWithInput"
+    }
+  ],
+  "utterances": [
+    {
+      "text": "can you save my work report",
+      "intent": "ReportStatus",
+      "entities": []
+    },
+    {
+      "text": "can you store my work summary",
+      "intent": "ReportStatus",
+      "entities": []
+    },
+    {
+      "text": "check status",
+      "intent": "Get_Status",
+      "entities": []
+    },
+    {
+      "text": "hello",
+      "intent": "Greetings",
+      "entities": []
+    },
+    {
+      "text": "heyy",
+      "intent": "Greetings",
+      "entities": []
+    },
+    {
+      "text": "hi",
+      "intent": "Greetings",
+      "entities": []
+    },
+    {
+      "text": "i want to check status of 23/05/2019",
+      "intent": "Get_Status",
+      "entities": []
+    },
+    {
+      "text": "i want to record my work summary",
+      "intent": "ReportStatus",
+      "entities": []
+    },
+    {
+      "text": "i want to send my work status to my manager",
+      "intent": "ReportStatus",
+      "entities": []
+    },
+    {
+      "text": "i want to share my work report",
+      "intent": "ReportStatus",
+      "entities": []
+    },
+    {
+      "text": "i want to share my work status with my manager",
+      "intent": "ReportStatus",
+      "entities": []
+    },
+    {
+      "text": "i want to store my task progress report",
+      "intent": "ReportStatus",
+      "entities": []
+    },
+    {
+      "text": "i want to submit my work status",
+      "intent": "ReportStatus",
+      "entities": []
+    },
+    {
+      "text": "i want to track status",
+      "intent": "Get_Status",
+      "entities": []
+    },
+    {
+      "text": "i want to track status of vignesh kumar",
+      "intent": "Get_Status",
+      "entities": [
+        {
+          "entity": "Name",
+          "startPos": 26,
+          "endPos": 38
+        }
+      ]
+    },
+    {
+      "text": "i would like to check status",
+      "intent": "Get_Status",
+      "entities": []
+    },
+    {
+      "text": "i would like to check status of karthick sriram",
+      "intent": "Get_Status",
+      "entities": [
+        {
+          "entity": "Name",
+          "startPos": 32,
+          "endPos": 46
+        }
+      ]
+    },
+    {
+      "text": "i would like to check status of rajesh on 23 april",
+      "intent": "Get_Status",
+      "entities": [
+        {
+          "entity": "Name",
+          "startPos": 32,
+          "endPos": 37
+        }
+      ]
+    },
+    {
+      "text": "i would like to check status of siddharth dubey",
+      "intent": "Get_Status",
+      "entities": [
+        {
+          "entity": "Name",
+          "startPos": 32,
+          "endPos": 46
+        }
+      ]
+    },
+    {
+      "text": "i would like to check status of siddharth dubey on 18 may",
+      "intent": "Get_Status",
+      "entities": [
+        {
+          "entity": "Name",
+          "startPos": 32,
+          "endPos": 46
+        }
+      ]
+    },
+    {
+      "text": "i would like to report my work status",
+      "intent": "ReportStatus",
+      "entities": []
+    },
+    {
+      "text": "report status",
+      "intent": "ReportStatus",
+      "entities": []
+    },
+    {
+      "text": "show me status of john",
+      "intent": "Get_Status",
+      "entities": [
+        {
+          "entity": "Name",
+          "startPos": 18,
+          "endPos": 21
+        }
+      ]
+    },
+    {
+      "text": "show me status of siddharth dubey",
+      "intent": "Get_Status",
+      "entities": [
+        {
+          "entity": "Name",
+          "startPos": 18,
+          "endPos": 32
+        }
+      ]
+    },
+    {
+      "text": "show me status of siddharth dubey for today",
+      "intent": "Get_Status",
+      "entities": [
+        {
+          "entity": "Name",
+          "startPos": 18,
+          "endPos": 32
+        }
+      ]
+    },
+    {
+      "text": "show me work status",
+      "intent": "Get_Status",
+      "entities": []
+    }
+  ],
+  "settings": []
+}
