@@ -37,7 +37,7 @@
 <h3>Importing the LUIS Model</h3>
 <ol>
     <strong>
-        <li>Download the LUIS Json file from <a href="https://github.com/jumpstartninjatech/AI-TechSeries/blob/master/HOL/LegalDocumentLUIS.json">GitHub</a></li>&nbsp;
+        <li>Download the LUIS Json file from <a href="https://github.com/jumpstartninjatech/AI-TechSeries/blob/master/HOL/e569a3f6-4254-4060-a326-3a6372d0b419_v0.1.json">GitHub</a></li>&nbsp;
         <li>Login to Luis.ai</li>&nbsp;
         <img src="http://139.59.61.161/Hackathon/MSWorkshop2019/LuisImages/1.jpg" alt="image" style="max-width: 100%;">&nbsp;
         <li>Enter your username</li>&nbsp;
@@ -48,9 +48,9 @@
         <img src="http://139.59.61.161/Hackathon/MSWorkshop2019/LuisImages/4.jpg" alt="image" style="max-width: 100%;">&nbsp;
         <li>Select the Json file</li>&nbsp;
         <img src="http://139.59.61.161/Hackathon/MSWorkshop2019/LuisImages/5.jpg" alt="image" style="max-width: 100%;">&nbsp;
-        <img src="http://139.59.61.161/Hackathon/MSWorkshop2019/LuisImages/6.jpg" alt="image" style="max-width: 100%;">&nbsp;
+        <img src="http://139.59.61.161/Hackathon/MSWorkshop2019/LuisImages/6_hackathon.jpg" alt="image" style="max-width: 100%;">&nbsp;
         <li>Enter name</li>&nbsp;
-        <img src="http://139.59.61.161/Hackathon/MSWorkshop2019/LuisImages/7.jpg" alt="image" style="max-width: 100%;">&nbsp;
+        <img src="http://139.59.61.161/Hackathon/MSWorkshop2019/LuisImages/7_hackathon.jpg" alt="image" style="max-width: 100%;">&nbsp;
         <li>Click on Train button</li>&nbsp;
         <img src="http://139.59.61.161/Hackathon/MSWorkshop2019/custom/LUIS2.jpg" alt="image" style="max-width: 100%;">&nbsp;
         <li>After training is completed, click on Publish button</li>&nbsp;
@@ -72,7 +72,7 @@
 <p><b>STEP 4 : </b>If you enter the URL for selecting an image, make sure you give the right path for the image.</p>
 <h2>Sample Output</h2>
 <h3>Browse Button for selecting images from the Local Machine</h3>
-<li>Turn off the Live Streamming and select the Browse Button</li>&nbsp;
+<li>Turn off the Live Streaming and select the Browse Button</li>&nbsp;
 <img src="http://139.59.61.161/Hackathon/MSWorkshop2019/Quality_Check/Model1_output/output_2.PNG" alt="image" style="max-width:100%;">&nbsp;
 <li>Open the Right image from the folder</li>&nbsp;
 <img src="http://139.59.61.161/Hackathon/MSWorkshop2019/OCR/2.png" alt="image" style="max-width:100%;">&nbsp;

@@ -31,7 +31,7 @@
 <h3>Psuedo Code : </h3>
 <p><b>STEP 1 : </b>The user should be able to take a snapshot from the livestream or to be able to select a local image [Provide both the options]</p>
 <p><b>STEP 2 : </b>Call the <b>Image Validation</b> function which you have created in the Challenge 1 to validate the image given by the user</p>
-<p><b>STEP 3 : </b>You have to call the Face registration API Only when the four attributes specified in the <b>Image Validation function</b> are succedded</p>
+<p><b>STEP 3 : </b>You have to call the Face registration API Only when the four attributes specified in the <b>Image Validation function</b> are succeeded</p>
 <h3>Objective : Invoke the Register API</h3>
 <h3>Psuedo Code : </h3>
 <p><b>STEP 1 : </b>Using Azure Face API you have to do the Face registration</p>
@@ -42,7 +42,7 @@
 <p><b>STEP 6 : </b>To call the <b>Add Face API</b> you need the Person ID [(i.e) <b>Create Person API</b>'s response]</p>
 <p><b>STEP 7 : </b>Finally call the <b>Train API</b> and get the success response</p>
 <p><b>STEP 8 : </b>To call the <b>Train API</b> you need the Group ID and Face API Key</p>
-<p><b>STEP 9 : </b>If all the four attributes of <b>Image Validation function</b> are succedded the image will be displayed in the right side</p>
+<p><b>STEP 9 : </b>If all the four attributes of <b>Image Validation function</b> are succeeded the image will be displayed in the right side</p>
 <p><b>STEP 10 : </b>Get the name, mobile number, email and gender from the user and store those details in the <b>usertable</b> along with the Person ID you got from the <b>Create Person API</b></p>
 <h3>Objective : Call the gesture randomly</h3>
 <h3>Psuedo Code : </h3>

@@ -160,11 +160,11 @@
 <li>Copy all the queries from <a href="https://github.com/jumpstartninjatech/AI-TechSeries/blob/master/HOL/HOL_Script.sql">sql script file</a></li>&nbsp;
 <img src="http://139.59.61.161/Hackathon/MSWorkshop2019/sql/sql4.jpg" alt="image" style="max-width: 100%;">&nbsp;  
 <li>Paste all the queries in the editor pane and click on Run button</li>&nbsp;
-<img src="http://139.59.61.161/Hackathon/MSWorkshop2019/sql/sql6.jpg" alt="image" style="max-width: 100%;">&nbsp;
+<img src="http://139.59.61.161/Hackathon/MSWorkshop2019/sql/sql6_hackathon.jpg" alt="image" style="max-width: 100%;">&nbsp;
 <li>Now click on Connection strings tab in the left pane</li>&nbsp;
-<img src="http://139.59.61.161/Hackathon/MSWorkshop2019/sql/sql7.jpg" alt="image" style="max-width: 100%;">&nbsp;
+<img src="http://139.59.61.161/Hackathon/MSWorkshop2019/sql/sql6_hackathon.jpg" alt="image" style="max-width: 100%;">&nbsp;
 <li>Copy your Connection string</li>&nbsp;
-<img src="http://139.59.61.161/Hackathon/MSWorkshop2019/sql/sql8.jpg" alt="image" style="max-width: 100%;">&nbsp;
+<img src="http://139.59.61.161/Hackathon/MSWorkshop2019/sql/sql6_hackathon.jpg" alt="image" style="max-width: 100%;">&nbsp;
 <h3>Objective : Invoke the image validation Admin part</h3>
 <h3>Psuedo Code : </h3>
 <p><b>STEP 1 : </b>Create a function to fetch all the details from the <b>imagevalidation</b> table and display it in the front end</p>
