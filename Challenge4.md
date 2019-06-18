@@ -1,6 +1,6 @@
 <h1>Hackathon</h1>
 <h2>Challenge 4 – Quality Control of PDI Verification</h2>
-<p>In Challenge 4, you have to use Azure Custom Vision API to create Quality Control Checker.</p>
+<p>In Challenge 4, you have to use Azure Custom Vision API to create the Quality Control Checker.</p>
 <h2>Getting Started</h2>
 <h3>Prerequisites</h3>
 <li>Kindly ensure that the application works fine so far.</li>
