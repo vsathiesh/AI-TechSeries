@@ -142,7 +142,7 @@
 <img src="http://139.59.61.161/Hackathon/MSWorkshop2019/DB_Creation/8.jpg" style="max-width:100%;">&nbsp;
 <li>Click tables</li>&nbsp;
 <img src="http://139.59.61.161/Hackathon/MSWorkshop2019/DB_Creation/9.jpg" style="max-width:100%;">&nbsp;
-<li>List of all the tables</li>&nbsp;
+<li>List of all the tables will be displayed</li>&nbsp;
 <img src="http://139.59.61.161/Hackathon/MSWorkshop2019/DB_Creation/10.jpg" style="max-width:100%;">&nbsp;
 <h3>Azure SQL Server Connectivity through "Azure Portal"</h3>
 <li>Sign-in to Azure Portal by typing "portal.azure.com" in browser, enter your username</li>&nbsp;

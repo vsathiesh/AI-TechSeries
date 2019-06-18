@@ -33,7 +33,7 @@
 <img src="http://139.59.61.161/Hackathon/MSWorkshop2019/Challenge2/output/1.JPG" alt="image" style="max-width: 100%;">&nbsp;
 <p><b>STEP 2: </b>Create a function, which is used to add the new gesture in the <b>gesture</b> table, while the user clicks on the <b>Add Gestures</b> button.</p>
 <p>The pictures shown below are the examples for adding new gesture in <b>gesture</b> table</p>&nbsp;
-<li>Adding the new Gesture, when <b>Add Gesture</b> button clicks</li>&nbsp;
+<li>Add the new Gesture, when the <b>Add Gesture</b> button is clicked</li>&nbsp;
 <img src="http://139.59.61.161/Hackathon/MSWorkshop2019/Challenge2/output/2.jpg" alt="image" style="max-width: 100%;">&nbsp;
 <li>Create a Modal box for Adding a new Gesture</li>&nbsp
 <img src="http://139.59.61.161/Hackathon/MSWorkshop2019/Challenge2/output/3.jpg" alt="image" style="max-width: 100%;">&nbsp;
