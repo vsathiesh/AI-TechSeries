@@ -17,7 +17,7 @@
       <img src="http://139.59.61.161/Hackathon/MSWorkshop2019/face_group_id/face_2.jpg" alt="image" style="max-width: 100%;">&nbsp;
       <li>Select the region</li>&nbsp;
       <img src="http://139.59.61.161/Hackathon/MSWorkshop2019/face_group_id/face_3.jpg" alt="image" style="max-width: 100%;">&nbsp;
-      <li>Enter any id in PersonGroupId, specify the face api key created in Azure portal here in 'Ocp-Apim-Subscription-Key' [Note : use the face api key that you have created in Challenge 1]</li>&nbsp;
+      <li>Enter any id in PersonGroupId, specify the face api key created in Azure portal here in 'Ocp-Apim-Subscription-Key' [Note : use the face api key that you have created in <a href="https://github.com/jumpstartninjatech/AI-TechSeries/blob/master/Challenge1.md">Challenge 1</a>]</li>&nbsp;
       <img src="http://139.59.61.161/Hackathon/MSWorkshop2019/face_group_id/face_4.jpg" alt="image" style="max-width: 100%;">&nbsp;
       <li>In the Json specify the name and recognitionModel [Note : recognitionModel value must be 'recognition_01']</li>&nbsp;
       <img src="http://139.59.61.161/Hackathon/MSWorkshop2019/face_group_id/face_5.jpg" alt="image" style="max-width: 100%;">&nbsp;
