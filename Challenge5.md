@@ -1,12 +1,12 @@
 <h1>AI Tech Series - Hackathon</h1>
 <h2>Challenge 5 – Automatic Extraction of Key Phrases using Azure OCR and LUIS</h2>
-<p>In this Challenge 5, you have to create the Legal Document Verification using Azure Custom Vision API and Microsoft LUIS</p>
+<p>In this Challenge 5, you have to create the Legal Document Verification using Azure Computer Vision API and Microsoft LUIS</p>
 <h2>Getting Started</h2>
 <h3>Prerequisites</h3>
 <li>Kindly ensure that the application works fine so far</li>
 <li>Build the Legal Document Verification in the same application</li>
 <h3>Code Summary</h3>
-<p>In Legal Document Verification you have to do two steps. The first one is OCR (Optical Character Recognizer), its an API which you need to create using Azure Custom Vision. It is used to find the character in a given document or an image. Use OCR, to get the text from the input (document/image)</p>
+<p>In Legal Document Verification you have to do two steps. The first one is OCR (Optical Character Recognizer), its an API which you need to create using Azure Computer Vision. It is used to find the character in a given document or an image. Use OCR, to get the text from the input (document/image)</p>
 <p>After you got all the text, you need to do the Automatic Keyword Extraction using Microsoft LUIS.</p>
 <h3>Objective: Legal Document Verification using OCR and LUIS</h3>
 <h3>Creating Cognitive service API Key for OCR</h3>
