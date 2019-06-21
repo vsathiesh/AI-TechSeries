@@ -1,6 +1,5 @@
 ﻿<body style="font-family: 'Lucida Grande', 'Calibri', Helvetica, Arial, sans-serif;">
 <div class="container">
-    <h1 style="font-size: 30px;font-weight: 700;">Course Modules</h1>
     <h2 style="padding-bottom: 10px;font-size: 26px;font-weight: 700;">Hack Problem Statement</h2>
     <p style="margin: 10px 0 15px 0;"><b>Contoso</b> is a Global Logistics Solution Providing Company and is one of the Market Leaders providing logistics solutions to manufacturers of cars, pick-up trucks and heavy equipment. As one of its very niche offerings, this company also delivers a specialised processing service called – Vehicle Pre-Delivery Inspection</p>
     <p style="margin: 10px 0 15px 0;">As per of this Services Offering, Contoso sends its specialised field force to customer’s warehouse or delivery centres who performs a thorough inspection of vehicles before they ship it for delivery. Contoso also signs up contractual agreements with all of its customers for this special offering but with heavy penalty clauses. Contoso has to pay a heavy price for any defective vehicle that is passing through PDI check.</p>
