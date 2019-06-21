@@ -1,7 +1,7 @@
 ﻿<body style="font-family: 'Lucida Grande', 'Calibri', Helvetica, Arial, sans-serif;">
 <div class="container">
     <h1 style="font-size: 30px;font-weight: 700;">Course Modules</h1>
-    <h2 style="padding-bottom: 10px;font-size: 26px;font-weight: 700;">About HoL Problem Statement</h2>
+    <h2 style="padding-bottom: 10px;font-size: 26px;font-weight: 700;">Hack Problem Statement</h2>
     <p style="margin: 10px 0 15px 0;"><b>Contoso</b> is a Global Logistics Solution Providing Company and is one of the Market Leaders providing logistics solutions to manufacturers of cars, pick-up trucks and heavy equipment. As one of its very niche offerings, this company also delivers a specialised processing service called – Vehicle Pre-Delivery Inspection</p>
     <p style="margin: 10px 0 15px 0;">As per of this Services Offering, Contoso sends its specialised field force to customer’s warehouse or delivery centres who performs a thorough inspection of vehicles before they ship it for delivery. Contoso also signs up contractual agreements with all of its customers for this special offering but with heavy penalty clauses. Contoso has to pay a heavy price for any defective vehicle that is passing through PDI check.</p>
     <p style="margin: 10px 0 15px 0;">Contoso hired Azure Consultants to solve some of its biggest problems in terms of adapting to new technology tools and productivity issues.</p>
@@ -18,16 +18,13 @@
       <li>Automation of “Quality Control” of PDI process</li>
       <li>Chat bot-based reporting of work and approval of work</li>
     </ul>
-     <p style="margin: 10px 0 15px 0;"><a href="https://github.com/jumpstartninjatech/HeroSolutions-AI/blob/master/Challenge0.md" target="_blan">Challenge 0 </a>– Infrastructure Setup and Verification</p>
      <p style="margin: 10px 0 15px 0;"><a href="https://github.com/jumpstartninjatech/HeroSolutions-AI/blob/master/Challenge1.md" target="_blank">Challenge 1 </a>– Image Validation using Azure Computer Vision</p>
      <p style="margin: 10px 0 15px 0;"><a href="https://github.com/jumpstartninjatech/HeroSolutions-AI/blob/master/Challenge2.md" target="_blank">Challenge 2 </a>– Gesture Management using Azure Custom Vision</p>
      <p style="margin: 10px 0 15px 0;"><a href="https://github.com/jumpstartninjatech/HeroSolutions-AI/blob/master/Challenge3.md" target="_blank">Challenge 3 </a>– Gesture Management using Azure Custom Vision</p>
      <p style="margin: 10px 0 15px 0;"><a href="https://github.com/jumpstartninjatech/HeroSolutions-AI/blob/master/Challenge4.md" target="_blank">Challenge 4 </a>– Quality Control of PDI Verification using Custom Vision Models</p>
      <p style="margin: 10px 0 15px 0;"><a href="https://github.com/jumpstartninjatech/HeroSolutions-AI/blob/master/Challenge5.md" target="_blank">Challenge 5 </a>– Automatic Extraction of Key Phrases using Azure OCR and LUIS</p>
      <p style="margin: 10px 0 15px 0;"><a href="https://github.com/jumpstartninjatech/HeroSolutions-AI/blob/master/Challenge6.md" target="_blank">Challenge 6 </a>– Integration of NLP based Chat bot for Task Management</p>
-     <h2 style="padding-bottom: 1px;font-size: 26px;font-weight: 700;">Certifications</h2>
-      <p style="margin: 10px 0 15px 0;">Post the session if you are interested in taking up Microsoft Certifications, they following are most appropriate for this session</p>
-      <ul>
+      
 </div>
 </body>
 </html>
