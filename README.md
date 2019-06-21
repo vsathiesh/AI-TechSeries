@@ -17,12 +17,12 @@
       <li>Automation of “Quality Control” of PDI process</li>
       <li>Chat bot-based reporting of work and approval of work</li>
     </ul>
-     <p style="margin: 10px 0 15px 0;"><a href="https://github.com/jumpstartninjatech/HeroSolutions-AI/blob/master/Challenge1.md" target="_blank">Challenge 1 </a>– Image Validation using Azure Computer Vision</p>
-     <p style="margin: 10px 0 15px 0;"><a href="https://github.com/jumpstartninjatech/HeroSolutions-AI/blob/master/Challenge2.md" target="_blank">Challenge 2 </a>– Gesture Management using Azure Custom Vision</p>
-     <p style="margin: 10px 0 15px 0;"><a href="https://github.com/jumpstartninjatech/HeroSolutions-AI/blob/master/Challenge3.md" target="_blank">Challenge 3 </a>– Gesture Management using Azure Custom Vision</p>
-     <p style="margin: 10px 0 15px 0;"><a href="https://github.com/jumpstartninjatech/HeroSolutions-AI/blob/master/Challenge4.md" target="_blank">Challenge 4 </a>– Quality Control of PDI Verification using Custom Vision Models</p>
-     <p style="margin: 10px 0 15px 0;"><a href="https://github.com/jumpstartninjatech/HeroSolutions-AI/blob/master/Challenge5.md" target="_blank">Challenge 5 </a>– Automatic Extraction of Key Phrases using Azure OCR and LUIS</p>
-     <p style="margin: 10px 0 15px 0;"><a href="https://github.com/jumpstartninjatech/HeroSolutions-AI/blob/master/Challenge6.md" target="_blank">Challenge 6 </a>– Integration of NLP based Chat bot for Task Management</p>
+     <p style="margin: 10px 0 15px 0;"><a href="https://github.com/jumpstartninjatech/AI-TechSeries/blob/master/Challenge1.md" target="_blank">Challenge 1 </a>– Image Validation using Azure Computer Vision</p>
+     <p style="margin: 10px 0 15px 0;"><a href="https://github.com/jumpstartninjatech/AI-TechSeries/blob/master/Challenge2.md" target="_blank">Challenge 2 </a>– Gesture Management using Azure Custom Vision</p>
+     <p style="margin: 10px 0 15px 0;"><a href="https://github.com/jumpstartninjatech/AI-TechSeries/blob/master/Challenge3.md" target="_blank">Challenge 3 </a>– Gesture Management using Azure Custom Vision</p>
+     <p style="margin: 10px 0 15px 0;"><a href="https://github.com/jumpstartninjatech/AI-TechSeries/blob/master/Challenge4.md" target="_blank">Challenge 4 </a>– Quality Control of PDI Verification using Custom Vision Models</p>
+     <p style="margin: 10px 0 15px 0;"><a href="https://github.com/jumpstartninjatech/AI-TechSeries/blob/master/Challenge5.md" target="_blank">Challenge 5 </a>– Automatic Extraction of Key Phrases using Azure OCR and LUIS</p>
+     <p style="margin: 10px 0 15px 0;"><a href="https://github.com/jumpstartninjatech/AI-TechSeries/blob/master/Challenge6.md" target="_blank">Challenge 6 </a>– Integration of NLP based Chat bot for Task Management</p>
       
 </div>
 </body>
