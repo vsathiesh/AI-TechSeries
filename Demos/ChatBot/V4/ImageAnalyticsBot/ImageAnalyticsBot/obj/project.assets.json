@@ -12345,11 +12345,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Siddharth Dubey\\source\\repos\\May2019\\ImageAnalyticsBot\\ImageAnalyticsBot\\ImageAnalyticsBot.csproj",
+      "projectUniqueName": "C:\\Users\\Siddharth Dubey\\Desktop\\Test\\May2019\\ImageAnalyticsBot\\ImageAnalyticsBot\\ImageAnalyticsBot.csproj",
       "projectName": "ImageAnalyticsBot",
-      "projectPath": "C:\\Users\\Siddharth Dubey\\source\\repos\\May2019\\ImageAnalyticsBot\\ImageAnalyticsBot\\ImageAnalyticsBot.csproj",
+      "projectPath": "C:\\Users\\Siddharth Dubey\\Desktop\\Test\\May2019\\ImageAnalyticsBot\\ImageAnalyticsBot\\ImageAnalyticsBot.csproj",
       "packagesPath": "C:\\Users\\Siddharth Dubey\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Siddharth Dubey\\source\\repos\\May2019\\ImageAnalyticsBot\\ImageAnalyticsBot\\obj\\",
+      "outputPath": "C:\\Users\\Siddharth Dubey\\Desktop\\Test\\May2019\\ImageAnalyticsBot\\ImageAnalyticsBot\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

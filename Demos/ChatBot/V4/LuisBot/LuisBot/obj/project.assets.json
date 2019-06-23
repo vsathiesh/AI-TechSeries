@@ -12374,11 +12374,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Siddharth Dubey\\source\\repos\\May2019\\LuisBot\\LuisBot\\LuisBot.csproj",
+      "projectUniqueName": "C:\\Users\\Siddharth Dubey\\Desktop\\Test\\May2019\\LuisBot\\LuisBot\\LuisBot.csproj",
       "projectName": "LuisBot",
-      "projectPath": "C:\\Users\\Siddharth Dubey\\source\\repos\\May2019\\LuisBot\\LuisBot\\LuisBot.csproj",
+      "projectPath": "C:\\Users\\Siddharth Dubey\\Desktop\\Test\\May2019\\LuisBot\\LuisBot\\LuisBot.csproj",
       "packagesPath": "C:\\Users\\Siddharth Dubey\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Siddharth Dubey\\source\\repos\\May2019\\LuisBot\\LuisBot\\obj\\",
+      "outputPath": "C:\\Users\\Siddharth Dubey\\Desktop\\Test\\May2019\\LuisBot\\LuisBot\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

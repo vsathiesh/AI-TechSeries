@@ -12472,11 +12472,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Siddharth Dubey\\source\\repos\\May2019\\ADAuthenticationBot\\18.bot-authentication\\AuthenticationBot.csproj",
+      "projectUniqueName": "C:\\Users\\Siddharth Dubey\\Desktop\\Test\\May2019\\ADAuthenticationBot\\18.bot-authentication\\AuthenticationBot.csproj",
       "projectName": "AuthenticationBot",
-      "projectPath": "C:\\Users\\Siddharth Dubey\\source\\repos\\May2019\\ADAuthenticationBot\\18.bot-authentication\\AuthenticationBot.csproj",
+      "projectPath": "C:\\Users\\Siddharth Dubey\\Desktop\\Test\\May2019\\ADAuthenticationBot\\18.bot-authentication\\AuthenticationBot.csproj",
       "packagesPath": "C:\\Users\\Siddharth Dubey\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Siddharth Dubey\\source\\repos\\May2019\\ADAuthenticationBot\\18.bot-authentication\\obj\\",
+      "outputPath": "C:\\Users\\Siddharth Dubey\\Desktop\\Test\\May2019\\ADAuthenticationBot\\18.bot-authentication\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

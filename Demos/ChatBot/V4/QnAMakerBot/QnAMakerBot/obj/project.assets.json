@@ -12259,11 +12259,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Siddharth Dubey\\source\\repos\\May2019\\QnAMakerBot\\QnAMakerBot\\QnAMakerBot.csproj",
+      "projectUniqueName": "C:\\Users\\Siddharth Dubey\\Desktop\\Test\\May2019\\QnAMakerBot\\QnAMakerBot\\QnAMakerBot.csproj",
       "projectName": "QnAMakerBot",
-      "projectPath": "C:\\Users\\Siddharth Dubey\\source\\repos\\May2019\\QnAMakerBot\\QnAMakerBot\\QnAMakerBot.csproj",
+      "projectPath": "C:\\Users\\Siddharth Dubey\\Desktop\\Test\\May2019\\QnAMakerBot\\QnAMakerBot\\QnAMakerBot.csproj",
       "packagesPath": "C:\\Users\\Siddharth Dubey\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Siddharth Dubey\\source\\repos\\May2019\\QnAMakerBot\\QnAMakerBot\\obj\\",
+      "outputPath": "C:\\Users\\Siddharth Dubey\\Desktop\\Test\\May2019\\QnAMakerBot\\QnAMakerBot\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
